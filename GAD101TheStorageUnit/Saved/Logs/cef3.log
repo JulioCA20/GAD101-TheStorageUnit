@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [31384:50876:0403/142124.134:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [31384:5908:0403/142124.212:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [31384:50876:0403/142124.224:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
@@ -13962,3 +13963,10 @@ Histogram: Windows.ProcessorVirtualizationFirmwareEnabled recorded 1 samples, me
 1  ... 
 
 
+=======
+[7488:26272:0403/145633.479:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7488:26224:0403/145633.588:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7488:26272:0403/145633.598:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25612:14052:0403/145639.001:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5BD994BD2FB27EC1BA2018F7F0C9DF61 will be ignored
+[7488:26272:0403/150323.270:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes
