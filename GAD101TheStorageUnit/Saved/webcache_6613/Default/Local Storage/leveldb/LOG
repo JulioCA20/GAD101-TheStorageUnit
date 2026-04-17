@@ -1,3 +1,8 @@
-2026/04/16-17:22:11.955 4108 Reusing MANIFEST C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/16-17:22:11.961 4108 Recovering log #3
-2026/04/16-17:22:11.968 4108 Reusing old log C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/16-22:40:06.224 3f54 Creating DB C:\Users\squir\OneDrive\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/04/16-22:40:06.254 3f54 Reusing MANIFEST C:\Users\squir\OneDrive\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/16-22:54:44.330 4884 Level-0 table #5: started
+2026/04/16-22:54:44.336 4884 Level-0 table #5: 66155 bytes OK
+2026/04/16-22:54:44.337 4884 Delete type=0 #3
+2026/04/16-22:56:44.334 4884 Level-0 table #7: started
+2026/04/16-22:56:44.341 4884 Level-0 table #7: 71123 bytes OK
+2026/04/16-22:56:44.342 4884 Delete type=0 #4
