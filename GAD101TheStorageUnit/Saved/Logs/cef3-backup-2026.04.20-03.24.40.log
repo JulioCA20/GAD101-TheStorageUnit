@@ -1,0 +1,13 @@
+[24512:24484:0419/202241.259:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24512:3652:0419/202241.575:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24512:24484:0419/202241.711:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22160:15680:0419/202248.877:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5E79A53493A1D807427A04AC5D4D218B will be ignored
+[24512:24484:0419/202248.942:ERROR:device_event_log_impl.cc(196)] [20:22:48.863] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[24512:15588:0419/202249.454:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[24512:24484:0419/202249.524:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[24512:24484:0419/202249.525:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[24512:24484:0419/202249.525:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[24512:24484:0419/202249.525:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[24512:15588:0419/202249.546:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[22416:6924:0419/202250.620:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-1D6323419846AAFAF2E82747B8CEFD09 will be ignored
+[24512:24484:0419/202440.033:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
