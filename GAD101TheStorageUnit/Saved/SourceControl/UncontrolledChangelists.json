@@ -7,6 +7,13 @@
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.7/Engine/Content/EditorShellMaterials/M_ShellMaster.uasset",
 				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset",
+				"C:/Users/zheny/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/TheStorageFacililyMap.umap",
+				"C:/Users/zheny/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/SpecialSU/BP_SUSpecial.uasset",
+				"C:/Users/zheny/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/Textures/MAT_StorageUnitRoom2.uasset",
+				"C:/Users/zheny/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/NormalSU/BP_SUNormal.uasset",
+				"C:/Users/zheny/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/Textures/MAT_StorageUnitRoom3.uasset",
+				"C:/Users/zheny/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/FilledSU/BP_SUFilled.uasset",
+				"C:/Users/zheny/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/Textures/MAT_StorageUnitRoom1.uasset",
 				"C:/Users/squir/OneDrive/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/FirstPerson/Lvl_FirstPerson.umap",
 				"C:/Users/squir/OneDrive/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/Fab/Light/Base.uasset",
 				"C:/Users/squir/OneDrive/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/Fab/Light/Masked.uasset",
