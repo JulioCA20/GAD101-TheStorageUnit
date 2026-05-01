@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.7/Engine/Content/EngineMeshes/BackgroundMaterial.uasset",
+				"C:/Users/lr104student26/Documents/GITHUB_SU/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/FirstPerson/Blueprints/BP_ITEM_2.uasset",
+				"C:/Users/lr104student26/Documents/GITHUB_SU/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/INVENTORY/BLUEPRINTS/InteractableItems/BP_ITEM_Keys.uasset",
+				"C:/Users/lr104student26/Documents/GITHUB_SU/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/INVENTORY/BLUEPRINTS/InteractableItems/BP_ITEM.uasset",
+				"C:/Users/lr104student26/Documents/GITHUB_SU/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/HZ/7PGG6UDGY66SS19MW4ALND.uasset",
+				"C:/Users/lr104student26/Documents/GITHUB_SU/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/P2/4T8RGG2Z3FUE8W3Q6VWKJQ.uasset",
+				"C:/Users/lr104student26/Documents/GITHUB_SU/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/QL/AH95W4K7SRP1AJ3STFIWLJ.uasset",
+				"C:/Users/lr104student26/Documents/GITHUB_SU/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/INVENTORY/MODELS/Low_Poly_Key/key/StaticMeshes/key.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/Animations/AS_TheMannequin_IdleSleeping.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinBlueprints/Tasks/BTTask_StunnedAnimation.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/Animations/AS_TheMannequin_IdleSleeping_Montage.uasset",
