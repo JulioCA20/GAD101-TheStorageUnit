@@ -1,3 +1,6 @@
-2026/05/02-20:21:45.211 4d2c Reusing MANIFEST C:\Users\squir\OneDrive\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/02-20:21:45.231 4d2c Recovering log #3
-2026/05/02-20:21:45.234 4d2c Reusing old log C:\Users\squir\OneDrive\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/03-13:57:03.172 288c Reusing MANIFEST C:\Users\squir\OneDrive\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/03-13:57:03.191 288c Recovering log #3
+2026/05/03-13:57:03.195 288c Reusing old log C:\Users\squir\OneDrive\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/03-15:00:54.364 d98 Level-0 table #5: started
+2026/05/03-15:00:54.376 d98 Level-0 table #5: 74378 bytes OK
+2026/05/03-15:00:54.378 d98 Delete type=0 #3
