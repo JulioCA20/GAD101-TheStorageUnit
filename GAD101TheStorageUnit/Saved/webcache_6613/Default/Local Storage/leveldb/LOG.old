@@ -1,5 +1,3 @@
-2026/05/04-01:25:50.817 5b3c Reusing MANIFEST C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/04-01:25:50.825 5b3c Recovering log #4
-2026/05/04-01:25:50.826 5b3c Level-0 table #7: started
-2026/05/04-01:25:50.835 5b3c Level-0 table #7: 64929 bytes OK
-2026/05/04-01:25:50.844 5b3c Delete type=0 #4
+2026/05/04-05:18:23.658 8210 Reusing MANIFEST C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/04-05:18:23.666 8210 Recovering log #8
+2026/05/04-05:18:23.671 8210 Reusing old log C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\Local Storage\leveldb/000008.log 

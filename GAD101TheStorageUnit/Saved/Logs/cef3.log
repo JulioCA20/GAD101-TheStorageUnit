@@ -1,12 +1,19 @@
-[16240:25292:0504/051823.373:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16240:24600:0504/051823.501:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[16240:25292:0504/051823.547:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[16240:20572:0504/051826.184:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16240:20572:0504/051826.187:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16240:20572:0504/051826.190:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16240:20572:0504/051826.191:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16240:33956:0504/051826.673:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16240:33956:0504/051826.675:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2876:6688:0504/051828.224:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A192E7206727941081D7950F436BBDA4 will be ignored
-[16240:25292:0504/051831.967:ERROR:device_event_log_impl.cc(196)] [05:18:31.948] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[16240:25292:0504/052312.809:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[5716:19588:0504/134706.605:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5716:19588:0504/134706.631:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[5716:14568:0504/134706.659:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[5716:19588:0504/134706.679:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5140:19720:0504/134711.464:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EEA4E0C92FF8F3DC23C605193DF3DBD0 will be ignored
+[4140:12944:0504/134714.162:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[4140:12944:0504/134714.192:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5716:19588:0504/134715.295:ERROR:device_event_log_impl.cc(196)] [13:47:15.288] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4140:12944:0504/134722.869:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[4140:12944:0504/134730.662:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[4140:12944:0504/164117.761:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[4140:12944:0504/164118.460:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[4140:12944:0504/164128.429:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[4140:12944:0504/164136.765:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[4140:12944:0504/180315.891:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[4140:12944:0504/180316.554:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[4140:12944:0504/180329.556:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[4140:12944:0504/180343.885:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5716:19588:0504/221448.292:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
