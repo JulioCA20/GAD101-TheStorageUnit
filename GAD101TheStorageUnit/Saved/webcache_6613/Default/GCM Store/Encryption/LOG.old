@@ -1,2 +1,3 @@
-2026/05/04-01:25:58.733 868c Creating DB C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\GCM Store\Encryption since it was missing.
-2026/05/04-01:25:58.768 868c Reusing MANIFEST C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001
+2026/05/04-05:18:32.110 4320 Reusing MANIFEST C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001
+2026/05/04-05:18:32.111 4320 Recovering log #3
+2026/05/04-05:18:32.112 4320 Reusing old log C:\Users\fredd\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\GCM Store\Encryption/000003.log 
