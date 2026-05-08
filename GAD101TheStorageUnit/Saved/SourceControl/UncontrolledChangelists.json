@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lr104student26/Documents/GITHUB_SU/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/FirstPerson/Blueprints/Inspect/W_inspecr.uasset",
+				"C:/Users/lr104student26/Documents/GITHUB_SU/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/FirstPerson/Blueprints/Inspect/BP_NOTE.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/EmptySU/BP_SUEmpty.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinLivingGrounds.umap",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/SpecialSU/BP_SUSpecial.uasset",
