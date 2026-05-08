@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/LR104Student34/Documents/Gibhubahsbd/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/light/BP_LightTrigger.uasset",
+				"C:/Users/LR104Student34/Documents/Gibhubahsbd/GAD101TheStorageUnit/Content/MapStorageFacility/TheStorageFacililyMap.umap",
+				"C:/Users/LR104Student34/Documents/Gibhubahsbd/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/light/BP_LIGHTTRIGGER_Hallway.uasset",
+				"C:/Users/LR104Student34/Documents/Gibhubahsbd/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/light/lightFalsing1.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/EmptySU/BP_SUEmpty.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinLivingGrounds.umap",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/SpecialSU/BP_SUSpecial.uasset",
