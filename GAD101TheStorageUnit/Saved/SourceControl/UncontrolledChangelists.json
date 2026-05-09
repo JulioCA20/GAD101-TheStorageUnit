@@ -10,7 +10,18 @@
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/EmptySU/BP_SUEmpty.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinLivingGrounds.umap",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/SpecialSU/BP_SUSpecial.uasset",
-				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/TheStorageFacililyMap.umap"
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/TheStorageFacililyMap.umap",
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinBlueprints/BP_TheMannequin.uasset",
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinBlueprints/AIC_TheMannequin.uasset",
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinBlueprints/BT_TheMannequin.uasset",
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinBlueprints/Tasks/BTTask_ChaseSequence.uasset",
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinBlueprints/Tasks/BTTask_RandomLocation.uasset",
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinBlueprints/Tasks/BTTask_CaughtSequence.uasset",
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinBlueprints/BB_TheMannequin.uasset",
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinBlueprints/Tasks/BTTask_CaughtArmSequence.uasset",
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/Animations/AS_TheMannequin_Looking_Montage.uasset",
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinBlueprints/Tasks/BTTask_StunnedAnimation.uasset",
+				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/FirstPerson/Blueprints/BP_INVENTORYCOMPONENT.uasset"
 			]
 		}
 	]

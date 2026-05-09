@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 2026/05/08-13:26:28.924 6358 Reusing MANIFEST C:\Users\lr104student26\Documents\GITHUB_SU\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001
 2026/05/08-13:26:28.924 6358 Recovering log #3
 2026/05/08-13:26:28.925 6358 Reusing old log C:\Users\lr104student26\Documents\GITHUB_SU\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\GCM Store\Encryption/000003.log 
+=======
+2026/05/08-12:51:36.882 7540 Creating DB C:\Users\lr104student31\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\GCM Store\Encryption since it was missing.
+2026/05/08-12:51:36.904 7540 Reusing MANIFEST C:\Users\lr104student31\Documents\Github\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001
+>>>>>>> Stashed changes
