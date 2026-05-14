@@ -1,24 +1,0 @@
-[46908:40544:0514/060349.724:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[46908:824:0514/060349.767:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[46908:40544:0514/060349.772:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[46908:25224:0514/060351.831:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zheny\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zheny\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[46908:25224:0514/060351.834:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zheny\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zheny\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[46908:25224:0514/060351.837:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zheny\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zheny\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[46908:25224:0514/060351.839:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zheny\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zheny\Documents\GitHub\GAD101-TheStorageUnit\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[46908:25224:0514/060352.091:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[46908:25224:0514/060352.096:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24948:41824:0514/060352.518:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8DB4E234A20429F28AAFFB4789AB23DB will be ignored
-[46908:16672:0514/060352.922:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[46908:40544:0514/060353.053:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[46908:40544:0514/060353.053:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[46908:40544:0514/060353.053:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[46908:40544:0514/060353.053:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[46908:16672:0514/060353.056:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[46908:40544:0514/060354.247:ERROR:device_event_log_impl.cc(196)] [06:03:54.234] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
-[48912:51936:0514/060355.856:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[48912:51936:0514/060356.723:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[48912:37128:0514/060356.742:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[48912:37128:0514/060356.742:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[48912:37128:0514/060356.742:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[52248:33688:0514/060601.949:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[46908:40544:0514/062107.266:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
