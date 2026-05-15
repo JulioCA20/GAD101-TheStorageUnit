@@ -1,26 +1,0 @@
-[35408:13172:0514/033858.023:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[35408:38424:0514/033858.089:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[35408:13172:0514/033858.106:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[35408:46060:0514/033900.747:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zheny\Documents\Unreal Projects\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zheny\Documents\Unreal Projects\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35408:46060:0514/033900.750:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zheny\Documents\Unreal Projects\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zheny\Documents\Unreal Projects\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35408:46060:0514/033900.751:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zheny\Documents\Unreal Projects\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zheny\Documents\Unreal Projects\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35408:46060:0514/033900.752:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zheny\Documents\Unreal Projects\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zheny\Documents\Unreal Projects\GAD101TheStorageUnit\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35408:54320:0514/033901.086:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35408:54320:0514/033901.088:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[36508:42588:0514/033902.760:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-48E55BB32D2058354ADEFA3F965211E1 will be ignored
-[35408:13172:0514/033907.762:ERROR:device_event_log_impl.cc(196)] [03:39:07.762] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
-[35408:13172:0514/034605.184:ERROR:device_event_log_impl.cc(196)] [03:46:04.956] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
-[14736:41104:0514/034631.085:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-0AF63F05ABB8F2C5EF01E7D58E56E80A will be ignored
-[38960:25516:0514/034824.743:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
-
-[38960:25516:0514/034824.843:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
-
-[38960:25516:0514/034825.500:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[35408:13172:0514/040725.382:ERROR:device_event_log_impl.cc(196)] [04:07:25.226] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
-[35408:13172:0514/043759.179:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
