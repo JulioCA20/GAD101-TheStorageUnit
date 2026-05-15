@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.7/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/AliasReference.uasset",
+				"C:/Users/hwright/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/TheStorageFacililyMap.umap",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/EmptySU/BP_SUEmpty.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinLivingGrounds.umap",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/MapStorageFacility/StorageUnits/SpecialSU/BP_SUSpecial.uasset",
@@ -31,8 +34,6 @@
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/QT/W25C0TKLEVQKGVK0Q1517F.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/N9/1T9PFFAMDZRYW8LTVM99B0.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Program Files/Epic Games/UE_5.7/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset",
-				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/AliasReference.uasset",
 				"C:/Users/lr104student31/Documents/Github/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/Blueprints/BP_LIGHTTRIGGER.uasset",
 				"C:/Users/fredd/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/fredd/Documents/GitHub/GAD101-TheStorageUnit/GAD101TheStorageUnit/Content/TheBaneOfMyExistence/MannequinBlueprints/BP_TheMannequin.uasset",
