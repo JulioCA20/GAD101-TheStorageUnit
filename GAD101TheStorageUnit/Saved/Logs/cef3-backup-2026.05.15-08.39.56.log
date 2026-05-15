@@ -1,0 +1,32 @@
+[21988:26232:0515/004205.110:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21988:21824:0515/004205.158:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21988:26232:0515/004205.171:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26128:22516:0515/004208.521:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BB744B3B0A8BFAC49BEDB4044C054D73 will be ignored
+[17008:17832:0515/004208.590:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[17008:17832:0515/004208.714:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.715:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.715:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.716:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.716:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.718:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.719:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.719:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.719:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.719:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.719:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.719:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.719:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004208.719:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004209.208:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004209.209:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004209.209:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004209.218:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004209.283:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004209.537:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:17832:0515/004209.537:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[17008:26432:0515/004212.000:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17008:26432:0515/004212.029:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[21988:26232:0515/004212.478:ERROR:device_event_log_impl.cc(196)] [00:42:12.472] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17008:26432:0515/004224.288:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17008:26432:0515/004235.819:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[21988:26232:0515/004815.126:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
