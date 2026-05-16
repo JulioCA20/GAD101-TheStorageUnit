@@ -1,5 +1,28 @@
-[22988:18992:0515/140634.285:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22988:26136:0515/140634.361:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[22988:18992:0515/140634.373:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21912:23216:0515/140639.654:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-59E9FA1F4691205F4574468E9E20D5ED will be ignored
-[22988:18992:0515/140826.642:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[13208:14144:0515/215200.711:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13208:11988:0515/215200.739:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[13208:14144:0515/215200.747:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5912:5552:0515/215202.929:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D9593025523B30CC1E1274D865716E5A will be ignored
+[13208:3216:0515/215203.232:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[13208:14144:0515/215203.343:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13208:14144:0515/215203.344:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13208:14144:0515/215203.344:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13208:14144:0515/215203.344:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13208:3216:0515/215203.347:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[10332:8516:0515/215203.791:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[10332:8516:0515/215203.792:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[10332:8516:0515/215203.815:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[10332:8516:0515/215203.816:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[13208:14144:0515/215204.660:ERROR:device_event_log_impl.cc(196)] [21:52:04.647] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4316:13940:0515/215205.433:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4316:13940:0515/215206.543:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4316:17416:0515/215206.552:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4316:17416:0515/215206.552:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4316:17416:0515/215206.552:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10332:8516:0515/215212.273:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[10332:8516:0515/215218.423:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[10332:8516:0515/215225.918:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[10332:8516:0515/215228.248:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[14528:15308:0515/215410.736:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14528:15308:0515/215410.736:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13208:14144:0515/224105.845:ERROR:device_event_log_impl.cc(196)] [22:41:05.820] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13208:14144:0515/230715.419:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
